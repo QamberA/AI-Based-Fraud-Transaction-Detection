@@ -72,6 +72,8 @@ GUI Framework: Tkinter, CustomTkinter
 Clone the repository:
 git clone https://github.com/your-username/sentinel-fraud-detection.git
 
+Download Dataset-rename as financial_data.csv
+https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
 
 Install dependencies:
 pip install -r requirements.txt
