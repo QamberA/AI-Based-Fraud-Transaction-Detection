@@ -77,7 +77,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run the application:
-python main.py
+python index.py
 
 🔍 Explainable AI XAI)
 The system integrates SHAP (SHapley Additive exPlanations) to explain model predictions, allowing users to understand which features contributed to fraud detection decisions.
